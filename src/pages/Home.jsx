@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { ProductServices } from "../services/api";
 import ShopCard from "../components/shop/ShopCard";
-import Shop from "./Shop";
 import SkeletonCard from "../components/common/SkeletonCard";
 import { Link } from "react-router";
 
